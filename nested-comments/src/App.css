@@ -1,0 +1,10 @@
+.nest{
+  display: flex;
+  background-color: grey;
+}
+.nest>p{
+  content: bold;
+}
+.nested{
+  padding-left: 5px;
+}
